@@ -1,0 +1,7 @@
+.all_content{
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+}
+.all_content p{
+    color: red;
+}
